@@ -1,6 +1,3 @@
-# aws_account_creation
-This projects demonstrates the creation of AWS Account Creation.
-
 # AWS Account Creation Project: Proof of Completion
 
 ## Understanding AWS Cloud
